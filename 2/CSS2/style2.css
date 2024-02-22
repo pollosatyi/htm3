@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+ul {
+    list-style-type: none;
+    background-color: rgb(128, 128, 128);
+    padding: 0;
+}
+
+div {
+    width: 40%;
+    flex: 100%;
+    margin-left: 5vw;
+    margin-top: 5vw;
+}
+
+ul li {
+    display: flex;
+    padding-left: 6px;
+}
+
+ul li p {
+    color: white;
+    align-self: center;
+    font-size: 24px;
+}
+
+ul li img {
+    width: 150px;
+    height: 150px;
+}
+
+ul li:hover {
+    background-color: rgb(94, 94, 94);
+}

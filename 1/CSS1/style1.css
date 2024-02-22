@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(240, 234, 234);
+}
+
+.text_align{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.display_flex{
+    display: flex;
+}
+
+.flex_direction{
+    flex-direction: row;
+}
+
+.flex_wrap{
+    flex-wrap: wrap;
+}
+
+li img{
+    width:142px;
+}
+
+li p{
+    text-align: center; 
+}
+
+ul li{
+    border:1px double gray;
+    border-radius: 30px;
+    margin:2px;
+    padding:2vh; 
+}
+
+.margin_2vh_4vw{
+    margin-top:2vh;
+    margin-bottom: 2vh;
+    margin-left:4vw;
+    margin-right: 4vw;
+}
+
+.font_weight{
+    font-weight: bold;
+}
